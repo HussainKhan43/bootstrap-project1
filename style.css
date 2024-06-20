@@ -6,9 +6,12 @@
 #nav{
     height: 80.75px;
     background-color: #140200CC;
+    position:sticky;
+    top: 0px;
+    
 }
 
-.container-fluid{
+/* .container-fluid{
     padding-left: 250px;
 
 }
@@ -16,7 +19,7 @@
 
 #navbarSupportedContent{
     padding-left: 600px;
-}
+} */
 
 .hero-tag{
     height: 700px;
